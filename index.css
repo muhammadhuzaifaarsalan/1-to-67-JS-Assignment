@@ -1,0 +1,16 @@
+#grad {
+    background-image: linear-gradient(to right, white,white,white,green,green,green,green);
+  }
+  
+  .img {
+    color: white;
+    margin-left: 800px;
+    top: 160px;
+    position: relative;
+  }
+
+  .class {
+    color: greenyellow;
+    top: 250px;
+    position: relative;
+  }
